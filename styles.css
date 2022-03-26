@@ -1,0 +1,22 @@
+/* DAY 6 STYLES */
+/* Day 6 work is ONLY in nav ul>li>a selector */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.float_left {
+    float: left;
+}
+
+.clearfix {
+    clear: both;
+}
+
+header h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
